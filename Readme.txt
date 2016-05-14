@@ -1,4 +1,3 @@
-Short Project 0
 
 1. The Source folder has 4 .java files
 2. The Driver_PriorityQueue.java is the starter class for running a Priority Queue program.
